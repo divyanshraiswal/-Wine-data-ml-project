@@ -6,7 +6,7 @@ wine quality prediction using:-
     4.Hac
     5.Decision tree
 
-# Check the https://github.com/tumharepapa/-Wine-data-ml-project/blob/main/Ml%20project.docx file
+
     
 
 
